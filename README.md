@@ -7,17 +7,6 @@ O projeto inclui um arquivo `docker-compose.yml` com todas as imagens necessári
 
 ---
 
-## Estrutura da tabela Pessoa
-
-A tabela utilizada no banco de dados segue o padrão abaixo:
-
-- **id**: identificador único (chave primária)  
-- **nome**: nome da pessoa  
-- **dt_nascimento**: data de nascimento  
-- **ativo**: indica se a pessoa está ativa (true/false)
-
----
-
 ## Tecnologias utilizadas
 
 - Java 17  

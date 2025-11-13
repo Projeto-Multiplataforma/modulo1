@@ -12,7 +12,7 @@ O projeto inclui um arquivo `docker-compose.yml` com todas as imagens necessári
 - Java 17  
 - Spring Boot 3+  
 - Spring Data JPA  
-- Banco de dados (PostgreSQL, MySQL ou outro de sua escolha)  
+- Banco de dados 
 - Graylog  
 - Docker e Docker Compose
 

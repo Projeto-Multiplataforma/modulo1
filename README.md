@@ -1,7 +1,5 @@
 # Pessoa API
 
-# Pessoa API
-
 Esta API foi desenvolvida em **Spring Boot 3+** e implementa um CRUD de Pessoa (criar, ler, atualizar e deletar).  
 O retorno das consultas é paginado, exibindo 10 registros por página, e apenas pessoas com o campo `ativo = true` são listadas.  
 Os logs da aplicação são enviados para o Graylog.  
